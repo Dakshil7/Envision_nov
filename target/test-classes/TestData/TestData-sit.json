@@ -1,0 +1,39 @@
+{
+  "AutomationpracticeTestDataProvider" : [
+    {
+      "username" : "hey@abc.com",
+      "password" : "Testing@1234",
+      "firstname" : "dakshil1"
+    },
+    {
+      "username" : "hey@abcd.com",
+      "password" : "Testing@1234",
+      "firstname" : "dakshil2"
+    },
+    {
+      "username" : "hey@abcdf.com",
+      "password" : "Testing@1234",
+      "firstname" : "dakshil3"
+    }
+  ],
+  "AutomationpracticeTestDataProvider2": [
+    {
+      "name" : "hey",
+      "password" : "Testing@1234",
+      "firstname" : "dakshil",
+      "lastname" : "tailor"
+    },
+    {
+      "username" : "hey@abcd.com",
+      "password" : "Testing@1234"
+    },
+    {
+      "username" : "hey@abcdf.com",
+      "password" : "Testing@1234"
+    }
+
+  ]
+
+
+
+}
